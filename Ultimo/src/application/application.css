@@ -1,0 +1,80 @@
+.rajoy1{
+		-fx-background-image: url("r1.jpg");
+		-fx-background-repeat: no-repeat;
+		-fx-background-size: cover, auto;
+	
+}
+.rtitulo1{
+	-fx-font-size: 15pt;
+	-fx-text-fill: white;
+}
+.texto{
+	-fx-font-size: 9pt;
+	-fx-text-fill: white;
+}
+.fondo{
+	-fx-background-color: green;
+}
+.b1{
+	-fx-background-color: green;
+	-fx-border-color: white;
+	-fx-text-fill: white;
+	-fx-background-radius: 16.4, 15;
+  	-fx-background-insets: -1.4, 0;
+  	-fx-border-radius: 15;
+  	-fx-border-width: 2;
+}
+
+.b1:hover{
+	-fx-background-color: #008f39;
+	-fx-border-color: white;
+	-fx-text-fill: green;	 
+}
+.b2{
+	-fx-background-color: blue;
+	-fx-border-color: white;
+	-fx-text-fill: white;
+	-fx-background-radius: 16.4, 15;
+  	-fx-background-insets: -1.4, 0;
+  	-fx-border-radius: 15;
+  	-fx-border-width: 2;
+}
+
+.b2:hover{
+	-fx-background-color: #3b83bd;
+	-fx-border-color: white;
+	-fx-text-fill: blue;	 
+}
+.b3{
+	-fx-background-color: red;
+	-fx-border-color: white;
+	-fx-text-fill: white;
+	-fx-background-radius: 16.4, 15;
+  	-fx-background-insets: -1.4, 0;
+  	-fx-border-radius: 15;
+  	-fx-border-width: 2;
+}
+
+.b3:hover{
+	-fx-background-color: #cb3234;
+	-fx-border-color: white;
+	-fx-text-fill: red;	 
+}
+.fondo2{
+	-fx-background-color: blue;
+}
+.rajoy2{
+		-fx-background-image: url("r2.jpg");
+		-fx-background-repeat: no-repeat;
+		-fx-background-size: cover, auto;
+	
+}
+.fondo3{
+	-fx-background-color: red;
+}
+.rajoy3{
+		-fx-background-image: url("r3.jpg");
+		-fx-background-repeat: no-repeat;
+		-fx-background-size: cover, auto;
+	
+}
